@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906169465234",
+    "project_id": "highwaygo-676f1",
+    "storage_bucket": "highwaygo-676f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906169465234:android:f1d709706593deda35294b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906169465234-fn0i1ll9l7774jgsalkp7t25fe4gsh0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt3bMkd_oUF7bgxkABAVLqgDC10XoQOAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906169465234-fn0i1ll9l7774jgsalkp7t25fe4gsh0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">HighwayGo</string>
+    <string name="btn1" translatable="false">Add New Schedule</string>
+    <string name="btn2" translatable="false">Update Schedule</string>
+    <string name="btn3" translatable="false">Delete Schedule</string>
+    <string name="txt1" translatable="false">Manage Bus Schedule</string>
+    <string name="txt2" translatable="false">Manage Bus Schedule</string>
+    <string name="manageBus">Bus Managment</string>
+    <string name="manageSchedule">Schedule Managment</string>
+    <string name="tvDate">Date</string>
+    <string name="view">View Bus Schedule</string>
+
+    <string name="regn">Reg No</string>
+    <string name="routen">Route</string>
+    <string name="daten">Date</string>
+    <string name="departuren">Departure</string>
+    <string name="arrivaln">Arrival</string>
+    <string name="updateb">UPDATE</string>
+    <string name="deleteb">DELETE</string>
+    <string name="updateBtn">UPDATE</string>
+    <string name="deleteBtn">DELETE</string>
+</resources>
