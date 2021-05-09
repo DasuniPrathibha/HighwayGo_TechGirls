@@ -1,7 +1,7 @@
 package com.example.app;
 
 public class Schedule {
-   String scheduleId;
+
      String regNo;
      String date;
      String route;
@@ -12,8 +12,8 @@ public class Schedule {
     public Schedule() {
     }
 
-    public Schedule(String scheduleId,String regNo, String date, String route, String departure, String arrival) {
-        this.scheduleId=scheduleId;
+    public Schedule(String regNo, String date, String route, String departure, String arrival) {
+
         this.regNo = regNo;
         this.date = date;
         this.route = route;
@@ -21,13 +21,6 @@ public class Schedule {
         this.arrival = arrival;
     }
 
-    public String getScheduleId() {
-        return scheduleId;
-    }
-
-    public void setScheduleId(String scheduleId) {
-        this.scheduleId = scheduleId;
-    }
 
     public String getRegNo() {
         return regNo;

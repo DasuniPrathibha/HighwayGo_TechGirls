@@ -83,13 +83,11 @@ public class AddBusActivity extends AppCompatActivity {
                     else if (TextUtils.isEmpty(addArrival.getText().toString()))
                         Toast.makeText(getApplicationContext(), "Please Enter Arrival", Toast.LENGTH_SHORT).show();
                     else {
-                        //  schedule.setRegNo(_enterName.getText().toString().trim()); // getting this to access db
                         schedule.setRegNo(regNo);
                         schedule.setRoute(route);
                         schedule.setDate(date);
                         schedule.setDeparture(departure);
                         schedule.setArrival(arrival);
-
 
                         dbRef.child(String.valueOf(scheduleId + 1)).setValue(schedule);
 
