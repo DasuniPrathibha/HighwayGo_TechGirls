@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HighwayGo</string>
+    <string name="txtBusName">Bus Name:</string>
+    <string name="txtBusNo">Bus No:</string>
+    <string name="txtFrom">From:</string>
+    <string name="txtTo">To:</string>
+    <string name="txtTelNo">Telephone:</string>
+    <string name="AddButton">ADD</string>
+</resources>
